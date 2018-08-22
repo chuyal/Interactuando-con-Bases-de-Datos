@@ -1,0 +1,21 @@
+instalar mongo
+Entrar a c:/archivos de programa/mongo y ejecuta mongo.exe:
+cmd comando: use agenda_db
+cmd insrtar datos: db.usuarios.insertMany([{ email: 'chuy@gmail.com', user: "chuy", password: "123456"}, { email: 'juan@gmail.com', user: "juan", password: "123456"}])
+iniciar desde cmd comando: mongood
+esperar mensaje:waiting for connections on port 270117
+instalar node
+abrir directorio del servidor en cmd
+ejecutar comando: node index.js 
+esperar mensaje: conectado a mongoDB
+
+abrir navegador
+localhost:3000
+
+usuario1: chuy
+contraseña: 123456
+
+usuario2: juan
+contraseña: 123456
+
+

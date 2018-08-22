@@ -1,0 +1,9 @@
+mysql
+servidor: localhost
+usuario: root
+contraseña:
+
+
+plataforma
+usuario:chuy@gmail.com
+contraseña:123456
